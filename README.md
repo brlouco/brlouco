@@ -8,7 +8,7 @@
 </h1>
 <p align="center">
   <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Brlouco's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=@brlouco&bg_color=1C00ff00&theme=tokyonight&hide_border=false"">
+    <img alt="Brlouco's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=@brlouco&bg_color=1C00ff00&theme=tokyonight&layout=compact">
 </p>
 <h2 align="center">Languages over Last 7 Days</h2>
 <figure><img src="https://wakatime.com/share/@brlouco/94d20c54-582d-4272-aed3-2b008cada0ea.svg" alt="--Veja a imagem numa tela maior"></figure>
