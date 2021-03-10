@@ -14,5 +14,5 @@
 <h2 align="center">Languages over Last 7 Days</h2>
 <figure><img src="https://wakatime.com/share/@brlouco/94d20c54-582d-4272-aed3-2b008cada0ea.svg" alt="--Veja a imagem numa tela maior"></figure>
 -->
-<h2 align="center">Coding Activity over Last 7 Days</h2>
-<figure><img src="https://wakatime.com/share/@brlouco/f22f2523-9f8d-4432-ae6e-ab55ba4a2bef.svg" alt="--Veja a imagem numa tela maior"></figure>
+<h2 align="center">Coding Activity over Last 30 Days</h2>
+<figure><img src="https://wakatime.com/share/@brlouco/85085234-3669-4487-b62a-8462bc2713f4.png" alt="--Veja a imagem numa tela maior"></figure>
